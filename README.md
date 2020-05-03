@@ -91,3 +91,5 @@ Here's the list:
 ## Summary Plots
 
 ![](https://github.com/rfgordonjr/nflQbDraftPicks/blob/master/plots/simplePlot.png)
+
+![](https://github.com/rfgordonjr/nflQbDraftPicks/blob/master/plots/simplePlotPerYear.png)
