@@ -15,14 +15,17 @@ Let's see if this has any merit. 5 seconds of google searching offers nothing th
 Let's do the following:
 
 - Pull all the data from first round quarterback selections from the last 20 years.
-- Define what "good" means. We'll a combination of these two:
+- Define what "good" means. We'll use a combination of these two:
     - Started a Super Bowl
     - Named to a Pro Bowl
 - Find factors that contribute to the likelihood of "good."
 
 ## First Round QBs by Year
 
-Here's the list:
+Here's the list of QBs taken in the first round per year since 1999 (excluding 2020 picks since they haven't had a chance to show if they're 'good' pros yet).
+
+Remember that we're defining a QB as 'good' if they've ever started a super bowl or made a Pro Bowl:
+
 
 |Name               | YearDrafted| sbStarts|everProBowl |goodQB |
 |:------------------|-----------:|--------:|:-----------|:------|
