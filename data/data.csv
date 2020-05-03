@@ -1,0 +1,62 @@
+"row","College","Name","No.","Pick","Player","Round","Team","Year","sbMvpTotal","sbWinTotal","sbLossTotal","sbStarts","numProBowls","everProBowl","goodQB"
+14,"Oklahoma","Kyler Murray","1","1","1","1","Cardinals","2019",0,0,0,0,0,FALSE,FALSE
+15,"Duke","Daniel Jones","2","6","6","1","Giants","2019",0,0,0,0,0,FALSE,FALSE
+16,"Ohio State","Dwayne Haskins","3","15","15","1","Redskins","2019",0,0,0,0,0,FALSE,FALSE
+25,"Oklahoma","Baker Mayfield","1","1","1","1","Browns","2018",0,0,0,0,0,FALSE,FALSE
+26,"USC","Sam Darnold","2","3","3","1","Jets","2018",0,0,0,0,0,FALSE,FALSE
+27,"Wyoming","Josh Allen","3","7","7","1","Bills","2018",0,0,0,0,0,FALSE,FALSE
+28,"UCLA","Josh Rosen","4","10","10","1","Cardinals","2018",0,0,0,0,0,FALSE,FALSE
+29,"Louisville","Lamar Jackson","5","32","32","1","Ravens","2018",0,0,0,0,1,TRUE,TRUE
+38,"North Carolina","Mitchell Trubisky","1","2","2","1","Bears","2017",0,0,0,0,1,TRUE,TRUE
+39,"Texas Tech","Patrick Mahomes","2","10","10","1","Chiefs","2017",1,1,0,1,2,TRUE,TRUE
+40,"Clemson","Deshaun Watson","3","12","12","1","Texans","2017",0,0,0,0,2,TRUE,TRUE
+48,"California","Jared Goff","1","1","1","1","Rams","2016",0,0,1,1,2,TRUE,TRUE
+49,"North Dakota State","Carson Wentz","2","2","2","1","Eagles","2016",0,0,0,0,1,TRUE,TRUE
+50,"Memphis","Paxton Lynch","3","26","26","1","Broncos","2016",0,0,0,0,0,FALSE,FALSE
+63,"Florida State","Jameis Winston","1","1","1","1","Buccaneers","2015",0,0,0,0,1,TRUE,TRUE
+64,"Oregon","Marcus Mariota","2","2","2","1","Titans","2015",0,0,0,0,0,FALSE,FALSE
+70,"Central Florida","Blake Bortles","1","3","3","1","Jaguars","2014",0,0,0,0,0,FALSE,FALSE
+71,"Texas A&M","Johnny Manziel","2","22","22","1","Browns","2014",0,0,0,0,0,FALSE,FALSE
+72,"Louisville","Teddy Bridgewater","3","32","32","1","Vikings","2014",0,0,0,0,1,TRUE,TRUE
+84,"Florida State","EJ Manuel","1","16","16","1","Bills","2013",0,0,0,0,0,FALSE,FALSE
+95,"Stanford","Andrew Luck","1","1","1","1","Colts","2012",0,0,0,0,4,TRUE,TRUE
+96,"Baylor","Robert Griffin","2","2","2","1","Redskins","2012",0,0,0,0,1,TRUE,TRUE
+97,"Texas A&M","Ryan Tannehill","3","8","8","1","Dolphins","2012",0,0,0,0,1,TRUE,TRUE
+98,"Oklahoma State","Brandon Weeden","4","22","22","1","Browns","2012",0,0,0,0,0,FALSE,FALSE
+107,"Auburn","Cam Newton","1","1","1","1","Panthers","2011",0,0,1,1,3,TRUE,TRUE
+108,"Washington","Jake Locker","2","8","8","1","Titans","2011",0,0,0,0,0,FALSE,FALSE
+109,"Missouri","Blaine Gabbert","3","10","10","1","Jaguars","2011",0,0,0,0,0,FALSE,FALSE
+110,"Florida State","Christian Ponder","4","12","12","1","Vikings","2011",0,0,0,0,0,FALSE,FALSE
+119,"Oklahoma","Sam Bradford","1","1","1","1","Rams","2010",0,0,0,0,0,FALSE,FALSE
+120,"Florida","Tim Tebow","2","25","25","1","Broncos","2010",0,0,0,0,0,FALSE,FALSE
+133,"Georgia","Matthew Stafford","1","1","1","1","Lions","2009",0,0,0,0,1,TRUE,TRUE
+134,"USC","Mark Sanchez","2","5","5","1","Jets","2009",0,0,0,0,0,FALSE,FALSE
+135,"Kansas State","Josh Freeman","3","17","17","1","Buccaneers","2009",0,0,0,0,0,FALSE,FALSE
+144,"Boston College","Matt Ryan","1","3","3","1","Falcons","2008",0,0,1,1,4,TRUE,TRUE
+145,"Delaware","Joe Flacco","2","18","18","1","Ravens","2008",1,1,0,1,0,FALSE,TRUE
+157,"Louisiana State","JaMarcus Russell","1","1","1","1","Raiders","2007",0,0,0,0,0,FALSE,FALSE
+158,"Notre Dame","Brady Quinn","2","22","22","1","Browns","2007",0,0,0,0,0,FALSE,FALSE
+168,"Texas","Vince Young","1","3","3","1","Titans","2006",0,0,0,0,2,TRUE,TRUE
+169,"USC","Matt Leinart","2","10","10","1","Cardinals","2006",0,0,0,0,0,FALSE,FALSE
+170,"Vanderbilt","Jay Cutler","3","11","11","1","Broncos","2006",0,0,0,0,1,TRUE,TRUE
+180,"Utah","Alex Smith","1","1","1","1","49ers","2005",0,0,0,0,3,TRUE,TRUE
+181,"California","Aaron Rodgers","2","24","24","1","Packers","2005",1,1,0,1,8,TRUE,TRUE
+182,"Auburn","Jason Campbell","3","25","25","1","Redskins","2005",0,0,0,0,0,FALSE,FALSE
+194,"Mississippi","Eli Manning","1","1","1","1","Chargers","2004",2,2,0,2,4,TRUE,TRUE
+195,"North Carolina State","Philip Rivers","2","4","4","1","Giants","2004",0,0,0,0,8,TRUE,TRUE
+196,"Miami (OH)","Ben Roethlisberger","3","11","11","1","Steelers","2004",0,2,1,3,6,TRUE,TRUE
+197,"Tulane","J.P. Losman","4","22","22","1","Bills","2004",0,0,0,0,0,FALSE,FALSE
+211,"USC","Carson Palmer","1","1","1","1","Bengals","2003",0,0,0,0,3,TRUE,TRUE
+212,"Marshall","Byron Leftwich","2","7","7","1","Jaguars","2003",0,0,0,0,0,FALSE,FALSE
+213,"California","Kyle Boller","3","19","19","1","Ravens","2003",0,0,0,0,0,FALSE,FALSE
+214,"Florida","Rex Grossman","4","22","22","1","Bears","2003",0,0,0,0,0,FALSE,FALSE
+224,"Fresno State","David Carr","1","1","1","1","Texans","2002",0,0,0,0,0,FALSE,FALSE
+225,"Oregon","Joey Harrington","2","3","3","1","Lions","2002",0,0,0,0,0,FALSE,FALSE
+226,"Tulane","Patrick Ramsey","3","32","32","1","Redskins","2002",0,0,0,0,0,FALSE,FALSE
+240,"Virginia Tech","Michael Vick","1","1","1","1","Falcons","2001",0,0,0,0,4,TRUE,TRUE
+251,"Marshall","Chad Pennington","1","18","18","1","Jets","2000",0,0,0,0,0,FALSE,FALSE
+263,"Kentucky","Tim Couch","1","1","1","1","Browns","1999",0,0,0,0,0,FALSE,FALSE
+264,"Syracuse","Donovan McNabb","2","2","2","1","Eagles","1999",0,0,0,0,6,TRUE,TRUE
+265,"Oregon","Akili Smith","3","3","3","1","Bengals","1999",0,0,0,0,0,FALSE,FALSE
+266,"Central Florida","Daunte Culpepper","4","11","11","1","Vikings","1999",0,0,0,0,3,TRUE,TRUE
+267,"UCLA","Cade McNown","5","12","12","1","Bears","1999",0,0,0,0,0,FALSE,FALSE
