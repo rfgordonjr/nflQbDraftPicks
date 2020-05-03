@@ -91,8 +91,17 @@ Remember that we're defining a QB as 'good' if they've ever started a super bowl
 |Daunte Culpepper   |        1999|        0|TRUE        |TRUE   |
 |Cade McNown        |        1999|        0|FALSE       |FALSE  |
 
-## Summary Plots
+## Summary of Early Results
+
+Look's like its more of a 42% chance of a good pick if we just look at the raw numbers:
+
+|goodQB | count|  percent|
+|:------|-----:|--------:|
+|FALSE  |    35| 57.37705|
+|TRUE   |    26| 42.62295|
 
 ![](https://github.com/rfgordonjr/nflQbDraftPicks/blob/master/plots/simplePlot.png)
+
+This varies greatly on a year-to-year basis:
 
 ![](https://github.com/rfgordonjr/nflQbDraftPicks/blob/master/plots/simplePlotPerYear.png)
